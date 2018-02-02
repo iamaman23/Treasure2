@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "454807359647",
+    "firebase_url": "https://treasure2-b836a.firebaseio.com",
+    "project_id": "treasure2-b836a",
+    "storage_bucket": "treasure2-b836a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454807359647:android:f614d08122612cc8",
+        "android_client_info": {
+          "package_name": "com.example.hp.treasure2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454807359647-n603kvjr7hih3mqet7v29qh2embercug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.treasure2",
+            "certificate_hash": "5f4c8eddc9b4293e47c9955a41a5e8e0ced6326a"
+          }
+        },
+        {
+          "client_id": "454807359647-f0bjn9f3s2arbob60fkllmrip8ajq1kf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyCzkR89ubcJJJiMKQ9vvDbClpRl-iIJg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454807359647-f0bjn9f3s2arbob60fkllmrip8ajq1kf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
